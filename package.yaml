@@ -29,6 +29,7 @@ dependencies:
 - blaze-html
 - blaze-markup
 - aeson
+- http-types
 
 ghc-options:
 - -Wall

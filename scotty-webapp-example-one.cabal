@@ -39,6 +39,7 @@ library
     , blaze-html
     , blaze-markup
     , clay
+    , http-types
     , scotty
     , text
     , wai-extra
@@ -60,6 +61,7 @@ executable scotty-webapp-example-one-exe
     , blaze-html
     , blaze-markup
     , clay
+    , http-types
     , scotty
     , scotty-webapp-example-one
     , text
@@ -83,6 +85,7 @@ test-suite scotty-webapp-example-one-test
     , blaze-html
     , blaze-markup
     , clay
+    , http-types
     , scotty
     , scotty-webapp-example-one
     , text
